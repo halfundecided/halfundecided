@@ -25,10 +25,8 @@ Hello there👋🏻, I'm Mijeong-a Software Engineer and a CS student pursuing M
    
 
 <div align=right>
-<i class="fas fa-university"></i>	
-	
-_B.S. in Computer Science at Stevens Institute of Technology_
 
+_B.S. in Computer Science at Stevens Institute of Technology_   
 _M.S. in Machine Learning at Stevens Institute of Technology_
 
 </div>	
