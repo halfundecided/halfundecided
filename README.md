@@ -43,6 +43,8 @@ _M.S. in Machine Learning at Stevens Institute of Technology_
 [![Badge](http://img.shields.io/badge/-Deep%20Learning-9cf?style=for-the-badge)]()
 
 
+<br></br>
+
 <div align=right>
 	
 [![Portfolio Badge](http://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&link=https://www.mijeong.me/)](https://www.mijeong.me/)
