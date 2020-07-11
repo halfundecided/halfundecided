@@ -19,10 +19,17 @@ Here are some ideas to get you started:
 
 </div>
 
+
 ### Mijeong Ban @halfundecided
 Hello there👋🏻, I'm Mijeong-a Software Engineer and a CS student pursuing M.S. in Machine Learning at Stevens, currently based in New York City. 
-
    
+   
+<div align=right>
+	
+[_B.S. in Computer Science at Stevens_]()
+
+</div>	
+
 <div align=right>
 	
 [![Portfolio Badge](http://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&link=https://www.mijeong.me/)](https://www.mijeong.me/)
