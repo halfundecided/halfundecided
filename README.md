@@ -29,14 +29,14 @@ _M.S. in Machine Learning at Stevens Institute of Technology_
 
 </div>	
 
-### I'm currently working on
+#### I'm currently working on ...
 - 🧠 Deep Learning Specialization offered by [deeplearning.ai](https://www.deeplearning.ai/)
 - 🔎 Leetcode [Coding Interview Problems](https://github.com/halfundecided/leetcode-interview-questions) everyday & [July Leetcoding Challenge](https://github.com/halfundecided/leetcode-challenge-July)
 - 🍁 Side Project for fun: [Maplestory Diary React Native App](https://github.com/halfundecided/maplestory-diary-app)
 
 
-### I love 
-@fa-play-circle
+#### I love ...
+`React`&`GraphQL`&`Python`&`Deep Learning`
 
 <div align=right>
 	
