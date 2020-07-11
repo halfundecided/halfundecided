@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhalfundecided)](https://hits.seeyoufarm.com)	
 
 </div>
+
+# Mijeong Ban -- @halfundecided
+Hello there👋🏻, I'm Mijeong--a Software Engineer and a CS student pursuing M.S. in Machine Learning at Stevens, currently based in New York City. 
+- B.S. in Computer Science & M.S. in Machine Learning at _Stevens Institute of Technology_
    
    
 <div align=right>
