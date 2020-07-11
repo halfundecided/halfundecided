@@ -29,14 +29,19 @@ _M.S. in Machine Learning at Stevens Institute of Technology_
 
 </div>	
 
-#### I'm currently working on ...
+#### I'm currently working on 
 - 🧠 Deep Learning Specialization offered by [deeplearning.ai](https://www.deeplearning.ai/)
 - 🔎 Leetcode [Coding Interview Problems](https://github.com/halfundecided/leetcode-interview-questions) everyday & [July Leetcoding Challenge](https://github.com/halfundecided/leetcode-challenge-July)
 - 🍁 Side Project for fun: [Maplestory Diary React Native App](https://github.com/halfundecided/maplestory-diary-app)
 
 
-#### I love ...
-`React`&`GraphQL`&`Python`&`Deep Learning`
+#### My interests are 
+
+[![Badge](http://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&link=https://reactjs.org/)](https://reactjs.org/)
+[![Badge](http://img.shields.io/badge/-GraphQL-blueviolet?style=for-the-badge&logo=graphql&link=https://graphql.org/)](https://graphql.org/)
+[![Badge](http://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&link=https://www.python.org/)](https://www.python.org/)
+[![Badge](http://img.shields.io/badge/-Deep%20Learning-9cf?style=for-the-badge)]()
+
 
 <div align=right>
 	
