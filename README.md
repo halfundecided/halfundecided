@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 </div>
 
-# Mijeong Ban -- @halfundecided
+### Mijeong Ban -- @halfundecided
 Hello there👋🏻, I'm Mijeong--a Software Engineer and a CS student pursuing M.S. in Machine Learning at Stevens, currently based in New York City. 
 - B.S. in Computer Science & M.S. in Machine Learning at _Stevens Institute of Technology_
    
