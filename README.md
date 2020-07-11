@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 </div>
 
-#### Hello there👋🏻, I'm Mijeong-a Software Engineer and a CS student pursuing M.S. in Machine Learning at Stevens, currently based in New York City. 
+#### Hello there👋🏻, I'm Mijeong--a CS student pursuing M.S. in Machine Learning at Stevens, currently based in New York City. 
    
 <div align=right>
 	
