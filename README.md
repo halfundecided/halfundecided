@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 
 </div>
    
-
+   
+<div align=end>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github&link=https://www.mijeong.me/)](https://www.mijeong.me/)
 	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halfundecided/)](https://www.linkedin.com/in/halfundecided/)
 	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:halfundecided@gmail.com)](mailto:halfundecided@gmail.com)
 	
-
+</div>
 
