@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 ### Mijeong Ban @halfundecided
 Hello there👋🏻, I'm Mijeong-a Software Engineer and a CS student pursuing M.S. in Machine Learning at Stevens, currently based in New York City. 
    
-   
+@university
 <div align=right>
 	
-[_B.S. in Computer Science at Stevens_]()
+_B.S. in Computer Science at Stevens Institute of Technology_
+_M.S. in Machine Learning at Stevens Institute of Technology_
 
 </div>	
 
