@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center>	
+<div align=right>	
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhalfundecided)](https://hits.seeyoufarm.com)	
 
 </div>
    
    
-<div align=end>
+<div align=right>
 	
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github&link=https://www.mijeong.me/)](https://www.mijeong.me/)
 	
