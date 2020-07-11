@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 </div>
 
-#### Hello there👋🏻, 
-I'm Mijeong-a Software Engineer and a CS student pursuing M.S. in Machine Learning at Stevens, currently based in New York City. 
+#### Hello there👋🏻, I'm Mijeong-a Software Engineer and a CS student pursuing M.S. in Machine Learning at Stevens, currently based in New York City. 
    
 <div align=right>
 	
@@ -29,6 +28,15 @@ _B.S. in Computer Science at Stevens Institute of Technology_
 _M.S. in Machine Learning at Stevens Institute of Technology_
 
 </div>	
+
+### I'm currently working on
+- 🧠 Deep Learning Specialization offered by [deeplearning.ai](https://www.deeplearning.ai/)
+- 🔎 Leetcode [Coding Interview Problems](https://github.com/halfundecided/leetcode-interview-questions) everyday & [July Leetcoding Challenge](https://github.com/halfundecided/leetcode-challenge-July)
+- 🍁 Side Project for fun: [Maplestory Diary React Native App](https://github.com/halfundecided/maplestory-diary-app)
+
+
+### I love 
+@fa-play-circle
 
 <div align=right>
 	
