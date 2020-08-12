@@ -31,7 +31,8 @@ _M.S. in Machine Learning at Stevens Institute of Technology_
 
 #### I'm currently working on 
 - 🧠 Deep Learning Specialization offered by [deeplearning.ai](https://www.deeplearning.ai/)
-- 🔎 Leetcode [Coding Interview Problems](https://github.com/halfundecided/leetcode-interview-questions) everyday & [July Leetcoding Challenge](https://github.com/halfundecided/leetcode-challenge-July)
+- 🔎 Leetcode [Coding Interview Problems](https://github.com/halfundecided/leetcode-interview-questions) everyday & [August Leetcoding Challenge](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge)
+- 📙 자바스크립트와 Node.js를 이용한 웹 크롤링 테크닉 
 - 🍁 Side Project for fun: [Maplestory Diary React Native App](https://github.com/halfundecided/maplestory-diary-app)
 
 
