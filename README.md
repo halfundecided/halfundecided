@@ -28,12 +28,12 @@ _B.S. in Computer Science at Stevens Institute of Technology_
 _M.S. in Machine Learning at Stevens Institute of Technology_
 
 </div>	
-
+<!--
 #### I'm currently working on 
 - 🧠 Deep Learning Specialization offered by [deeplearning.ai](https://www.deeplearning.ai/)
 - 🔎 Leetcode [Coding Interview Problems](https://github.com/halfundecided/leetcode-interview-questions) everyday & [September Leetcoding Challenge](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge)
 - 🍁 Side Project for fun: [Maplestory Diary React Native App](https://github.com/halfundecided/maplestory-diary-app)
-
+-->
 
 #### My interests are 
 
