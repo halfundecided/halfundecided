@@ -51,10 +51,10 @@ _M.S. in Machine Learning at Stevens Institute of Technology_
 <br></br>
 <div align=right>
 	
-[![Portfolio Badge](http://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&link=https://www.mijeong.me/)](https://www.mijeong.me/)
+[![Portfolio Badge](http://img.shields.io/badge/-Portfolio-d1d1d1?style=flat&logo=github&link=https://www.mijeong.me/)](https://www.mijeong.me/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halfundecided/)](https://www.linkedin.com/in/halfundecided/)	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:halfundecided@gmail.com)](mailto:halfundecided@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/-Medium-e1b184?style=flat&logo=medium&link=https://halfundecided.medium.com)](https://halfundecided.medium.com)	
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&link=https://halfundecided.medium.com)](https://halfundecided.medium.com)	
 	
 </div>
 
