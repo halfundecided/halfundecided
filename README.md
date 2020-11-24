@@ -28,12 +28,18 @@ _B.S. in Computer Science at Stevens Institute of Technology_
 _M.S. in Machine Learning at Stevens Institute of Technology_
 
 </div>	
-<!--
+
 #### I'm currently working on 
+- 🛠 Renewing [mijeong.me](https://www.mijeong.me) - going back to a simpler UI
+- 🖋 [Medium posts](https://halfundecided.medium.com) on Deep Learning topics
+- 📰 [NLP project](https://github.com/halfundecided/nlp_toxicity_classification_analysis) _Comparison of Classification Models on Unintended Bias in Toxicity Classification_
+- 🔙 Revisiting React Basics by doing [simple projects](https://github.com/halfundecided/react-small-samples) 
+
+<!--
 - 🧠 Deep Learning Specialization offered by [deeplearning.ai](https://www.deeplearning.ai/)
-- 🔎 Leetcode [Coding Interview Problems](https://github.com/halfundecided/leetcode-interview-questions) everyday & [September Leetcoding Challenge](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge)
-- 🍁 Side Project for fun: [Maplestory Diary React Native App](https://github.com/halfundecided/maplestory-diary-app)
+- 🔎 Leetcode [Coding Interview Problems](https://github.com/halfundecided/leetcode-interview-questions)
 -->
+
 
 #### My interests are 
 
