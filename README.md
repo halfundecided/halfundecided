@@ -35,8 +35,6 @@ _M.S. in Machine Learning at Stevens Institute of Technology_
 - 🍁 Side Project for fun: [Maplestory Diary React Native App](https://github.com/halfundecided/maplestory-diary-app)
 -->
 
-![Github Status](https://github-readme-stats.vercel.app/api?username=halfundecided&count_private=true&show_icons=true)
-
 #### My interests are 
 
 [![Badge](http://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&link=https://reactjs.org/)](https://reactjs.org/)
