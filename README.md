@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhalfundecided)](https://hits.seeyoufarm.com)
 
-![](https://visitor-badge.glitch.me/badge?page_id=halfundecided.halfundecided)
-
 </div>
 
-#### Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mijeon - a CS student pursuing M.S. in Machine Learning at Stevens, currently based in New York City. 
+#### Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mijeong - a CS student pursuing M.S. in Machine Learning at Stevens, currently based in New York City. 
    
 <div align=right>
 	
@@ -56,6 +54,7 @@ _M.S. in Machine Learning at Stevens Institute of Technology_
 [![Portfolio Badge](http://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&link=https://www.mijeong.me/)](https://www.mijeong.me/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halfundecided/)](https://www.linkedin.com/in/halfundecided/)	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:halfundecided@gmail.com)](mailto:halfundecided@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&link=https://www.linkedin.com/in/halfundecided/)](https://www.linkedin.com/in/halfundecided/)	
 	
 </div>
 
