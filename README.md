@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 
 <div align=right>	
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhalfundecided)](https://hits.seeyoufarm.com)	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhalfundecided)](https://hits.seeyoufarm.com)
+
+![](https://visitor-badge.glitch.me/badge?page_id=halfundecided.halfundecided)
 
 </div>
 
-#### Hello there👋🏻, I'm Mijeong--a CS student pursuing M.S. in Machine Learning at Stevens, currently based in New York City. 
+#### Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mijeon - a CS student pursuing M.S. in Machine Learning at Stevens, currently based in New York City. 
    
 <div align=right>
 	
