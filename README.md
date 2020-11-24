@@ -35,10 +35,10 @@ _M.S. in Machine Learning at Stevens Institute of Technology_
 - 📰 [NLP project](https://github.com/halfundecided/nlp_toxicity_classification_analysis) _Comparison of Classification Models on Unintended Bias in Toxicity Classification_
 - 🔙 Revisiting React Basics by doing [simple projects](https://github.com/halfundecided/react-small-samples) 
 
-
+<!--
 - 🧠 Deep Learning Specialization offered by [deeplearning.ai](https://www.deeplearning.ai/)
 - 🔎 Leetcode [Coding Interview Problems](https://github.com/halfundecided/leetcode-interview-questions)
-
+-->
 
 
 #### My interests are 
