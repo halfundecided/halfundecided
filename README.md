@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 	
 </div>
 
-#### Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mijeong - a Software Engineer who is about the web development and deep learning, currently based in New York City. 
+#### Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mijeong - a Software Engineer who is passionate about the web development and deep learning, currently based in the San Francisco Bay Area. 
    
 <div align=right>
 	
