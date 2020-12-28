@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 	
 </div>
 
-#### Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mijeong - a CS student pursuing M.S. in Machine Learning at Stevens, currently based in New York City. 
+#### Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mijeong - a Software Engineer who is about the web development and deep learning, currently based in New York City. 
    
 <div align=right>
 	
@@ -41,7 +41,6 @@ _M.S. in Machine Learning at Stevens Institute of Technology_
 - 🛠 Renewing [mijeong.me](https://www.mijeong.me) - going back to a simpler UI
 - 🖋 [Medium posts](https://halfundecided.medium.com) on Deep Learning topics
 - 📰 [NLP project](https://github.com/halfundecided/nlp_toxicity_classification_analysis) _Comparison of Classification Models on Unintended Bias in Toxicity Classification_
-- 🔙 Revisiting React Basics by doing [simple projects](https://github.com/halfundecided/react-small-samples) 
 
 <!--
 - 🧠 Deep Learning Specialization offered by [deeplearning.ai](https://www.deeplearning.ai/)
@@ -51,9 +50,9 @@ _M.S. in Machine Learning at Stevens Institute of Technology_
 
 #### My interests are 
 
-[![Badge](http://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&link=https://reactjs.org/)](https://reactjs.org/)
-[![Badge](http://img.shields.io/badge/-GraphQL-blueviolet?style=for-the-badge&logo=graphql&link=https://graphql.org/)](https://graphql.org/)
 [![Badge](http://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&link=https://www.python.org/)](https://www.python.org/)
 [![Badge](http://img.shields.io/badge/-Deep%20Learning-9cf?style=for-the-badge)]()
+[![Badge](http://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&link=https://reactjs.org/)](https://reactjs.org/)
+[![Badge](http://img.shields.io/badge/-GraphQL-blueviolet?style=for-the-badge&logo=graphql&link=https://graphql.org/)](https://graphql.org/)
 
 <br></br>
