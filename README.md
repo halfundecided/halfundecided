@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <div align=right>
 	
 👩🏻‍🎓 🧡 🏛   
-_M.S. in Machine Learning at Stevens Institute of Technology_
+_M.S. in Machine Learning at Stevens Institute of Technology_    
 _B.S. in Computer Science at Stevens Institute of Technology_
 
 </div>	
