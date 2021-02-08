@@ -27,21 +27,23 @@ Here are some ideas to get you started:
 	
 </div>
 
-#### Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mijeong - a Software Engineer who is passionate about the web development and deep learning, currently based in the San Francisco Bay Area. 
+#### Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mijeong - a Software/Machine Learning Engineer who loves deep learning and web dev, currently based in the San Francisco Bay Area. 
    
 <div align=right>
 	
 👩🏻‍🎓 🧡 🏛   
-_B.S. in Computer Science at Stevens Institute of Technology_     
 _M.S. in Machine Learning at Stevens Institute of Technology_
+_B.S. in Computer Science at Stevens Institute of Technology_
 
 </div>	
 
 #### I'm currently working on 
-- 🛠 Renewing [mijeong.me](https://www.mijeong.me) - going back to a simpler UI
+- 🦠 Getting into Machine Learning in Pharmacogenomics
 - 🖋 [Medium posts](https://halfundecided.medium.com) on Deep Learning topics
-- 📰 [NLP project](https://github.com/halfundecided/nlp_toxicity_classification_analysis) _Comparison of Classification Models on Unintended Bias in Toxicity Classification_
 
+<!--
+- 📰 [NLP project](https://github.com/halfundecided/nlp_toxicity_classification_analysis) _Comparison of Classification Models on Unintended Bias in Toxicity Classification_
+-->
 <!--
 - 🧠 Deep Learning Specialization offered by [deeplearning.ai](https://www.deeplearning.ai/)
 - 🔎 Leetcode [Coding Interview Problems](https://github.com/halfundecided/leetcode-interview-questions)
